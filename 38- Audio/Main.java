@@ -63,6 +63,8 @@ public class Main {
 
         System.out.println("Thank you for your time!");
 
+        scanner.close();
+
 
 
     }
